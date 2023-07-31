@@ -4,6 +4,9 @@ using WebApplication18.Models;
 
 namespace WebApplication18.Controllers
 {
+    /// <summary>
+    /// This is home controller having index page
+    /// </summary>
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
