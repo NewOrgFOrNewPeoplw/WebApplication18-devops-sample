@@ -6,4 +6,4 @@ namespace WebApplication18.Models
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
-}
+}     
