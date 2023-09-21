@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F078-2F96
+
+ Directory of C:\gitsamples\tagexample\WebApplication18-devops-sample
+
+21-09-2023  19:32    <DIR>          .
+21-09-2023  19:16    <DIR>          ..
+21-09-2023  19:16               340 .dockerignore
+21-09-2023  19:16             2,581 .gitattributes
+21-09-2023  19:16             6,593 .gitignore
+21-09-2023  19:32                 0 prn1
+21-09-2023  19:16                18 README.md
+21-09-2023  19:29                17 tttt
+21-09-2023  19:16    <DIR>          WebApplication18
+21-09-2023  19:16             1,154 WebApplication18.sln
+               7 File(s)         10,703 bytes
+               3 Dir(s)  226,556,559,360 bytes free
